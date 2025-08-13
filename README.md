@@ -86,4 +86,4 @@ make
 ./program
 ```
 
-Now the `MChaveMestre Registration and Login System` will be running in your terminal! 🎉
+Now the `ChaveMestre Registration and Login System` will be running in your terminal! 🎉
