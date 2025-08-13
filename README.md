@@ -86,4 +86,4 @@ make
 ./program
 ```
 
-Now the `MasterKey Registration and Login System` will be running in your terminal! 🎉
+Now the `MChaveMestre Registration and Login System` will be running in your terminal! 🎉
